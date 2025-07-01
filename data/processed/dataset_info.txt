@@ -1,0 +1,5 @@
+num_classes: 37
+train_size: 5908
+val_size: 1476
+image_size: 256
+batch_size: 16
